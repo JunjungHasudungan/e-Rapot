@@ -28,7 +28,7 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 ### Pembuat Aplikasi e-Rapot
 
 - **[Hasudungan](https://twitter.com/jung_doeng)**
-- **[dkk]
+- [dkk]
 
 ## Contributing
 

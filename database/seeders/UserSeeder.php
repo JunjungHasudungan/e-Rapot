@@ -16,9 +16,24 @@ class UserSeeder extends Seeder
     public function run()
     {
         $users = [
-            'name'      => 'Hasudungan Sitorus',
-            'email'     => 'hasudungan21@gmail.com',
-            'password'  => bcrypt('password'),
+            [
+                'name'      => 'Hasudungan Sitorus',
+                'email'     => 'hasudungan21@gmail.com',
+                'password'  => bcrypt('password'),
+                'role_id'   => 1,
+            ],
+            [
+                'name'      => 'Renaldi Tarigan',
+                'email'     => 'renalditarigan@gmail.com',
+                'password'  => bcrypt('password'),
+                'role_id'   => 1,
+            ],
+            [
+                'name'      => 'Caca Cahyana',
+                'email'     => 'cacacahyana21@gmail.com',
+                'password'  => bcrypt('password'),
+                'role_id'   => 1,
+            ],
         ];
 
         User::insert($users);
