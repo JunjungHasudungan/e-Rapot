@@ -21,18 +21,35 @@ class UserSeeder extends Seeder
                 'email'     => 'hasudungan21@gmail.com',
                 'password'  => bcrypt('password'),
                 'role_id'   => 1,
+                'major_id'  => null,
             ],
             [
                 'name'      => 'Renaldi Tarigan',
                 'email'     => 'renalditarigan@gmail.com',
                 'password'  => bcrypt('password'),
-                'role_id'   => 1,
+                'role_id'   => 3,
+                'major_id'  => 1,
+            ],
+            [
+                'name'      => 'Dani Harianja',
+                'email'     => 'daniharianja@gmail.com',
+                'password'  => bcrypt('password'),
+                'role_id'   => 2,
+                'major_id'  => 1,
             ],
             [
                 'name'      => 'Caca Cahyana',
                 'email'     => 'cacacahyana21@gmail.com',
                 'password'  => bcrypt('password'),
-                'role_id'   => 1,
+                'role_id'   => 2,
+                'major_id'  => 2
+            ],
+            [
+                'name'      => 'Yosua Situmorang',
+                'email'     => 'yosuasitumorang@gmail.com',
+                'password'  => bcrypt('password'),
+                'role_id'   => 3,
+                'major_id'  => 2,
             ],
         ];
 

@@ -4,18 +4,18 @@
 e-Rapot merupakan projek kecil yang dibangun untuk memenuhi kebutuhan, salah satunya berkaitan dengan sekolah
 
 ## Fitur yang dibangun
-- [Kelola Jurusan]
-- [Kelola Kelas]
-- [Kelola Mata Pelajaran]
-- [Kelola Absensi]
-- [Kelola Nilai Tugas Harian]
-- [Kelola Nilai Tugas Bab]
-- [Kelola Nilai PTS]
-- [Kelola Nilai UAS]
+- Kelola Jurusan
+- Kelola Kelas
+- Kelola Mata Pelajaran
+- Kelola Absensi
+- Kelola Nilai Tugas Harian
+- Kelola Nilai Tugas Bab
+- Kelola Nilai PTS
+- Kelola Nilai UAS
 
 ## Learning Laravel
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+Laravel has the most extensive and thorough [documentation(https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
 You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
 
@@ -28,7 +28,7 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 ### Pembuat Aplikasi e-Rapot
 
 - **[Hasudungan](https://twitter.com/jung_doeng)**
-- [dkk]
+- dkk
 
 ## Contributing
 
